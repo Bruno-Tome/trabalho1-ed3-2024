@@ -1,0 +1,352 @@
+nome,dieta,habitat,populacao,tipo,velocidade,unidadeMedida,tamanho,especie,alimento
+aardonyx,herbivorous,South Africa,84,sauropod,5200000,c,8.0,celestae,Equisetum arvense
+abelisaurus,carnivorous,Argentina,99,large theropod,930,h,9.0,comahuensis,abelisaurus
+achelousaurus,herbivorous,USA,89,ceratopsian,1500000,c,6.0,horneri,Araucaria araucana
+achillobator,carnivorous,Mongolia,99,large theropod,72,k,5.0,giganteus,achillobator
+acrocanthosaurus,carnivorous,USA,25,large theropod,6100000,c,12.0,atokensis,achelousaurus
+aegyptosaurus,herbivorous,Egypt,93,sauropod,2100000,c,15.0,baharijensis,Phoenix dactylifera
+afrovenator,carnivorous,Niger,18,large theropod,8300000,c,9.0,abakensis,afrovenator
+agilisaurus,herbivorous,China,82,euornithopod,87,k,1.5,louderbacki,Bambusa vulgaris
+alamosaurus,herbivorous,USA,66,sauropod,75,k,21.0,sanjuanensis,Araucaria araucana
+albertaceratops,herbivorous,USA,54,ceratopsian,7500000,c,7.0,nesmoi,Araucaria araucana
+albertosaurus,carnivorous,Canada,35,large theropod,8800000,c,9.0,libratus,albertosaurus
+alectrosaurus,carnivorous,Mongolia,80,large theropod,1000,h,5.0,olseni,achillobator
+alioramus,carnivorous,Mongolia,61,large theropod,2400000,c,6.0,remotus,achillobator
+allosaurus,carnivorous,USA,41,large theropod,30,h,12.0,fragilis,achelousaurus
+alvarezsaurus,carnivorous,Argentina,33,small theropod,2200000,c,2.0,calvoi,alvarezsaurus
+amargasaurus,herbivorous,Argentina,68,sauropod,530,h,12.0,cazaui,Metasequoia glyptostroboides
+ammosaurus,herbivorous,USA,33,sauropod,2,k,5.0,major,Araucaria araucana
+ampelosaurus,herbivorous,France,14,sauropod,8800000,c,15.0,atacis,Quercus robur
+amygdalodon,herbivorous,Argentina,21,sauropod,3000000,c,15.0,patagonicus,Metasequoia glyptostroboides
+anchiceratops,herbivorous,Canada,48,ceratopsian,3800000,c,6.0,ornatus,Thuja plicata
+anchisaurus,herbivorous,USA,20,sauropod,200000,c,2.0,polyzelous,Araucaria araucana
+ankylosaurus,herbivorous,USA,8,armoured dinosaur,640,h,7.0,magniventris,Araucaria araucana
+anserimimus,carnivorous,Mongolia,7,large theropod,6000000,c,3.5,planinychus,anserimimus
+antarctosaurus,herbivorous,Uruguay,67,sauropod,21,k,18.0,wichmannianus,Jubaea chilensis
+apatosaurus,herbivorous,USA,17,sauropod,14,k,21.0,ajax,Araucaria araucana
+aragosaurus,herbivorous,Spain,33,sauropod,7600000,c,18.0,ischiadicus,Sequoia sempervirens
+aralosaurus,herbivorous,Kazakhstan,48,euornithopod,58,k,8.0,tuberiferus,Welwitschia mirabilis
+archaeoceratops,herbivorous,China,76,ceratopsian,2200000,c,1.3,oshimai,Bambusa vulgaris
+archaeopteryx,carnivorous,Germany,59,small theropod,8900000,c,0.5,lithographica,archaeopteryx
+archaeornithomimus,carnivorous,Uzbekistan,86,small theropod,49,k,3.5,asiaticus,archaeornithomimus
+argentinosaurus,herbivorous,Argentina,22,sauropod,9100000,c,35.0,huinculensis,Metasequoia glyptostroboides
+arrhinoceratops,herbivorous,Canada,30,ceratopsian,59,k,6.0,brachyops,Thuja plicata
+atlascopcosaurus,herbivorous,Australia,38,euornithopod,420,h,3.0,loadsi,Dicksonia antarctica
+aucasaurus,carnivorous,Argentina,51,large theropod,9200000,c,5.0,garridoi,alvarezsaurus
+austrosaurus,herbivorous,Australia,54,sauropod,600,h,15.0,mckillopi,Dicksonia antarctica
+avaceratops,herbivorous,USA,8,ceratopsian,80,k,2.3,lammersi,Araucaria araucana
+avimimus,omnivorous,Mongolia,27,small theropod,150,h,1.5,portentosus,avimimus
+bactrosaurus,herbivorous,China,27,euornithopod,620,h,6.0,johnsoni,Bambusa vulgaris
+bagaceratops,herbivorous,Mongolia,98,ceratopsian,62,k,1.0,rozhdestvenskyi,Cycadophyta cycas
+bambiraptor,carnivorous,USA,21,small theropod,470,h,1.0,feinbergorum,bambiraptor
+barapasaurus,herbivorous,India,30,sauropod,620,h,14.0,tagorei,Ficus religiosa
+barosaurus,herbivorous,USA,97,sauropod,51,k,24.0,lentus,Araucaria araucana
+baryonyx,carnivorous,United Kingdom,28,large theropod,550,h,10.0,walkeri,baryonyx
+becklespinax,carnivorous,United Kingdom,64,large theropod,64,k,5.0,altispinax,becklespinax
+beipiaosaurus,omnivorous,China,97,small theropod,30,h,2.0,inexpectus,agilisaurus
+bellusaurus,herbivorous,China,69,sauropod,51,k,5.0,sui,Bambusa vulgaris
+borogovia,carnivorous,Mongolia,61,small theropod,7,k,1.5,gracilicrus,avimimus
+brachiosaurus,herbivorous,USA,48,sauropod,210,h,30.0,altithorax,Araucaria araucana
+brachylophosaurus,herbivorous,USA,19,euornithopod,730,h,7.0,canadensis,Araucaria araucana
+brachytrachelopan,herbivorous,Argentina,4,sauropod,390,h,10.0,mesai,Metasequoia glyptostroboides
+buitreraptor,carnivorous,Argentina,35,small theropod,1800000,c,1.3,gonzalezorum,buitreraptor
+camarasaurus,herbivorous,USA,64,sauropod,400000,c,23.0,supremus,Araucaria araucana
+camptosaurus,herbivorous,USA,49,euornithopod,8900000,c,5.0,dispar,Araucaria araucana
+carcharodontosaurus,carnivorous,North Africa,17,large theropod,60,k,15.0,saharicus,carcharodontosaurus
+carnotaurus,carnivorous,Argentina,44,large theropod,140,h,7.6,sastrei,alvarezsaurus
+caudipteryx,omnivorous,China,92,small theropod,9,k,1.0,zoui,caudipteryx
+cedarpelta,herbivorous,USA,30,armoured dinosaur,9000000,c,10.0,bilbeyhallorum,Araucaria araucana
+centrosaurus,herbivorous,Canada,93,ceratopsian,530,h,6.0,gonzalezorum,Thuja plicata
+ceratosaurus,carnivorous,USA,46,large theropod,2,k,6.0,nasicornis,achelousaurus
+cetiosauriscus,herbivorous,United Kingdom,6,sauropod,840,h,15.0,stewarti,Picea abies
+cetiosaurus,herbivorous,United Kingdom,99,sauropod,92,k,18.0,oxoniensis,Picea abies
+chaoyangsaurus,herbivorous,China,37,ceratopsian,600,h,1.1,youngi,Bambusa vulgaris
+chasmosaurus,herbivorous,Canada,24,ceratopsian,7100000,c,5.0,gonzalezorum,Thuja plicata
+chindesaurus,carnivorous,USA,93,small theropod,4400000,c,4.0,bryansmalli,anchisaurus
+chinshakiangosaurus,herbivorous,China,46,sauropod,80,h,11.0,zhongheensis,Bambusa vulgaris
+chirostenotes,omnivorous,Canada,53,small theropod,47,k,1.7,pergracilis,chirostenotes
+chubutisaurus,herbivorous,Argentina,95,sauropod,3500000,c,23.0,insignis,Metasequoia glyptostroboides
+chungkingosaurus,herbivorous,China,99,armoured dinosaur,7800000,c,4.0,jiangbeiensis,Bambusa vulgaris
+citipati,omnivorous,Mongolia,60,small theropod,8100000,c,2.1,osmolskae,avimimus
+coelophysis,carnivorous,South Africa,97,small theropod,360,h,2.0,gonzalezorum,coelophysis
+coelurus,carnivorous,USA,63,small theropod,500,h,1.8,fragilis,bambiraptor
+coloradisaurus,omnivorous,Argentina,85,sauropod,4,k,4.0,brevis,alvarezsaurus
+compsognathus,carnivorous,Germany,32,small theropod,2,k,0.65,longipes,archaeopteryx
+conchoraptor,carnivorous,Mongolia,87,small theropod,6,k,1.5,gracilis,avimimus
+confuciusornis,carnivorous,China,33,small theropod,540,h,0.25,sanctus,confuciusornis
+corythosaurus,herbivorous,USA,67,euornithopod,40,h,10.0,casuarius,Araucaria araucana
+cryolophosaurus,carnivorous,Antarctica,18,large theropod,54,k,8.0,elliotti,cryolophosaurus
+dacentrurus,herbivorous,United Kingdom,25,armoured dinosaur,93,k,6.0,armatus,Picea abies
+daspletosaurus,carnivorous,Canada,95,large theropod,630,h,9.0,torosus,albertosaurus
+datousaurus,herbivorous,China,54,sauropod,18,k,15.0,bashanensis,Bambusa vulgaris
+deinocheirus,omnivorous,Mongolia,58,large theropod,9000000,c,10.0,mirificus,achillobator
+deinonychus,carnivorous,USA,67,small theropod,440,h,3.0,antirrhopus,anchisaurus
+deltadromeus,carnivorous,Madagascar,46,large theropod,34,k,8.1,agilis,deltadromeus
+dicraeosaurus,herbivorous,Tanzania,24,sauropod,740,h,20.0,hansemanni,Cyathea australis
+dilophosaurus,carnivorous,USA,32,large theropod,6200000,c,6.0,gonzalezorum,achelousaurus
+diplodocus,herbivorous,USA,47,sauropod,1000,h,26.0,longus,Araucaria araucana
+dromaeosaurus,carnivorous,USA,86,small theropod,140,h,1.8,albertensis,bambiraptor
+dromiceiomimus,omnivorous,Canada,23,large theropod,950,h,3.5,brevitertius,chirostenotes
+dryosaurus,herbivorous,USA,66,euornithopod,480,h,4.0,altus,Araucaria araucana
+dryptosaurus,carnivorous,USA,27,large theropod,1500000,c,6.4,aquilunguis,achelousaurus
+dubreuillosaurus,carnivorous,France,2,large theropod,720,h,5.0,valesdunensis,dubreuillosaurus
+edmontonia,herbivorous,Canada,90,armoured dinosaur,780,h,4.0,longiceps,Thuja plicata
+edmontosaurus,herbivorous,Canada,17,euornithopod,87,k,13.0,regalis,Thuja plicata
+einiosaurus,herbivorous,USA,33,ceratopsian,620,h,6.0,procurvicornis,Araucaria araucana
+elaphrosaurus,carnivorous,Tanzania,9,large theropod,40,k,6.2,bambergi,elaphrosaurus
+emausaurus,herbivorous,Germany,43,armoured dinosaur,8500000,c,2.0,ernsti,Pinus longaeva
+eolambia,herbivorous,USA,48,euornithopod,8000000,c,3.2,caroljonesa,Araucaria araucana
+eoraptor,carnivorous,Argentina,39,small theropod,8200000,c,1.0,lunensis,eoraptor
+eotyrannus,carnivorous,United Kingdom,93,large theropod,5300000,c,5.0,lengi,becklespinax
+equijubus,herbivorous,China,42,euornithopod,24,k,12.0,normani,Bambusa vulgaris
+erketu,herbivorous,Mongolia,26,sauropod,260,h,15.0,ellisoni,Cycadophyta cycas
+erlikosaurus,omnivorous,Mongolia,99,small theropod,8900000,c,3.4,andrewsi,avimimus
+euhelopus,herbivorous,China,50,sauropod,600,h,10.0,zdanskyi,Bambusa vulgaris
+euoplocephalus,herbivorous,USA,25,armoured dinosaur,41,k,7.0,gonzalezorum,Araucaria araucana
+europasaurus,herbivorous,Germany,24,sauropod,29,k,6.2,holgeri,Pinus longaeva
+eustreptospondylus,carnivorous,United Kingdom,13,large theropod,15,k,7.0,oxoniensis,becklespinax
+fukuiraptor,carnivorous,Japan,60,large theropod,4500000,c,4.2,kitadaniensis,fukuiraptor
+fukuisaurus,herbivorous,Japan,7,euornithopod,650,h,4.7,tetoriensius,Araucaria mirabilis
+gallimimus,omnivorous,Mongolia,57,large theropod,890,h,6.0,bullatus,achillobator
+gargoyleosaurus,herbivorous,USA,36,armoured dinosaur,710,h,4.0,parkpinorum,Araucaria araucana
+garudimimus,omnivorous,Mongolia,45,large theropod,9,k,4.7,brevipes,anserimimus
+gasosaurus,carnivorous,China,20,small theropod,8800000,c,4.0,constructus,agilisaurus
+gasparinisaura,herbivorous,Argentina,65,euornithopod,1,k,0.8,cincosaltensis,Metasequoia glyptostroboides
+gastonia,herbivorous,USA,8,armoured dinosaur,8,k,4.6,burgei,Araucaria araucana
+giganotosaurus,carnivorous,Argentina,16,large theropod,880,h,12.5,carolinii,abelisaurus
+gilmoreosaurus,herbivorous,China,14,euornithopod,63,k,6.0,mongoliensis,Bambusa vulgaris
+giraffatitan,herbivorous,Tanzania,76,sauropod,110,h,23.0,brancai,Cyathea australis
+gobisaurus,herbivorous,China,87,armoured dinosaur,8100000,c,5.0,domoculus,Bambusa vulgaris
+gorgosaurus,carnivorous,USA,15,large theropod,80,h,8.6,libratus,achelousaurus
+goyocephale,herbivorous,Mongolia,92,large theropod,3500000,c,2.0,lattimorei,Cycadophyta cycas
+graciliceratops,herbivorous,Mongolia,98,ceratopsian,350,h,1.0,mongoliensis,Cycadophyta cycas
+gryposaurus,herbivorous,USA,66,euornithopod,33,k,10.0,notabilis,Araucaria araucana
+guaibasaurus,herbivorous,Brazil,32,small theropod,5,k,1.8,candelariensis,Nothofagus fusca
+guanlong,carnivorous,China,87,small theropod,4100000,c,3.0,wucaii,agilisaurus
+hadrosaurus,herbivorous,USA,63,euornithopod,2800000,c,9.0,foulkii,Araucaria araucana
+hagryphus,omnivorous,USA,86,small theropod,700000,c,3.0,giganteus,anchisaurus
+haplocanthosaurus,herbivorous,USA,51,sauropod,730,h,21.5,priscus,Araucaria araucana
+harpymimus,omnivorous,Mongolia,25,small theropod,720,h,2.0,okladnikovi,avimimus
+herrerasaurus,carnivorous,Argentina,58,small theropod,1200000,c,3.0,ischigualastensis,alvarezsaurus
+hesperosaurus,herbivorous,USA,63,armoured dinosaur,34,k,6.0,mjosi,Araucaria araucana
+heterodontosaurus,herbivorous,South Africa,62,euornithopod,330,h,1.2,tucki,Equisetum arvense
+heyuannia,omnivorous,Mongolia,22,small theropod,480,h,2.0,yanshini,avimimus
+homalocephale,herbivorous,Mongolia,58,euornithopod,230,h,1.5,calathocercos,Cycadophyta cycas
+huayangosaurus,herbivorous,China,58,armoured dinosaur,6200000,c,4.5,taibaii,Bambusa vulgaris
+hylaeosaurus,herbivorous,United Kingdom,86,armoured dinosaur,8800000,c,5.0,armatus,Picea abies
+hypacrosaurus,herbivorous,USA,49,euornithopod,3700000,c,9.0,altispinus,Araucaria araucana
+hypsilophodon,herbivorous,United Kingdom,52,euornithopod,9900000,c,2.3,foxii,Picea abies
+iguanodon,herbivorous,United Kingdom,42,euornithopod,4400000,c,10.0,bernissartensis,Picea abies
+indosuchus,carnivorous,India,70,large theropod,86,k,7.0,raptorius,indosuchus
+irritator,carnivorous,Brazil,15,large theropod,91,k,6.5,challengeri,guaibasaurus
+isisaurus,herbivorous,India,54,sauropod,3500000,c,6.0,colberti,Ficus religiosa
+janenschia,herbivorous,Tanzania,60,sauropod,650,h,20.0,robusta,Cyathea australis
+jaxartosaurus,herbivorous,Kazakhstan,97,euornithopod,9900000,c,9.0,aralensis,Welwitschia mirabilis
+jingshanosaurus,herbivorous,China,8,sauropod,47,k,5.0,xinwaensis,Bambusa vulgaris
+jinzhousaurus,herbivorous,China,53,euornithopod,78,k,1.2,yangi,Bambusa vulgaris
+jobaria,herbivorous,Niger,60,sauropod,30,h,21.0,tiguidensis,Magnolia grandiflora
+juravenator,carnivorous,Germany,5,small theropod,1,k,0.8,starki,archaeopteryx
+kentrosaurus,herbivorous,Tanzania,68,armoured dinosaur,500000,c,5.0,aethiopicus,Cyathea australis
+khaan,omnivorous,Mongolia,6,small theropod,900,h,1.8,mckennai,avimimus
+kotasaurus,herbivorous,India,96,sauropod,1400000,c,9.0,yamanpalliensis,Ficus religiosa
+kritosaurus,herbivorous,USA,94,euornithopod,2700000,c,8.0,navajovius,Araucaria araucana
+lambeosaurus,herbivorous,Canada,47,euornithopod,90,h,9.0,lambei,Thuja plicata
+lapparentosaurus,herbivorous,Madagascar,99,sauropod,7900000,c,3.0,madagascariensis,Ginkgo biloba
+leaellynasaura,herbivorous,Australia,55,euornithopod,15,k,2.0,amicagraphica,Dicksonia antarctica
+leptoceratops,herbivorous,USA,40,ceratopsian,9000000,c,3.0,gracilis,Araucaria araucana
+lesothosaurus,herbivorous,China,52,sauropod,420,h,1.0,diagnosticus,Bambusa vulgaris
+liaoceratops,herbivorous,China,16,ceratopsian,770,h,2.5,yanzigouensis,Bambusa vulgaris
+ligabuesaurus,herbivorous,Argentina,13,sauropod,510,h,24.0,leanzai,Metasequoia glyptostroboides
+liliensternus,carnivorous,Germany,30,small theropod,6300000,c,5.0,liliensterni,archaeopteryx
+lophorhothon,herbivorous,USA,19,euornithopod,960,h,4.5,atopus,Araucaria araucana
+lophostropheus,carnivorous,France,17,large theropod,520,h,6.2,airelensis,dubreuillosaurus
+lufengosaurus,herbivorous,China,63,sauropod,9600000,c,6.0,huenei,Bambusa vulgaris
+lurdusaurus,herbivorous,Niger,19,euornithopod,4,k,9.0,arenatus,Magnolia grandiflora
+lycorhinus,herbivorous,South Africa,92,euornithopod,9400000,c,1.2,angustidens,Equisetum arvense
+magyarosaurus,herbivorous,Madagascar,58,sauropod,230,h,5.0,dacus,Ginkgo biloba
+maiasaura,herbivorous,USA,55,euornithopod,150,h,9.0,peeblesorum,Araucaria araucana
+majungasaurus,carnivorous,Madagascar,90,large theropod,4300000,c,6.0,atopus,lapparentosaurus
+malawisaurus,herbivorous,Niger,90,sauropod,29,k,9.0,dixeyi,Magnolia grandiflora
+mamenchisaurus,herbivorous,China,62,sauropod,360,h,22.0,constructus,Bambusa vulgaris
+mapusaurus,carnivorous,Argentina,23,large theropod,130,h,13.0,roseae,abelisaurus
+marshosaurus,carnivorous,USA,9,large theropod,320,h,6.0,bicentesimus,achelousaurus
+masiakasaurus,carnivorous,Madagascar,12,small theropod,7100000,c,2.0,knopfleri,masiakasaurus
+massospondylus,omnivorous,South Africa,12,sauropod,590,h,4.0,carinatus,coelophysis
+maxakalisaurus,herbivorous,Brazil,58,sauropod,86,k,13.0,topai,Nothofagus fusca
+megalosaurus,carnivorous,United Kingdom,32,large theropod,280,h,9.0,bucklandii,becklespinax
+melanorosaurus,omnivorous,South Africa,34,sauropod,660,h,12.0,readi,aardonyx
+metriacanthosaurus,carnivorous,United Kingdom,96,large theropod,42,k,8.2,parkeri,becklespinax
+microceratus,herbivorous,Mongolia,48,ceratopsian,450,h,0.5,gobiensis,Cycadophyta cycas
+micropachycephalosaurus,herbivorous,China,89,ceratopsian,6200000,c,0.6,hongtuyanensis,Bambusa vulgaris
+microraptor,carnivorous,China,23,small theropod,5700000,c,0.8,zhaoianus,confuciusornis
+minmi,herbivorous,Australia,16,armoured dinosaur,600000,c,3.0,paravertebra,Dicksonia antarctica
+monolophosaurus,carnivorous,China,61,large theropod,28,k,5.7,jiangi,agilisaurus
+mononykus,herbivorous,Mongolia,64,small theropod,280,h,1.0,olecranus,Cycadophyta cycas
+mussaurus,herbivorous,Argentina,63,sauropod,4400000,c,3.0,patagonicus,Metasequoia glyptostroboides
+muttaburrasaurus,herbivorous,Australia,69,euornithopod,84,k,7.0,langdoni,Dicksonia antarctica
+nanshiungosaurus,omnivorous,China,22,large theropod,300,h,4.4,brevispinus,agilisaurus
+nedoceratops,herbivorous,USA,93,ceratopsian,62,k,7.0,hatcheri,Araucaria araucana
+nemegtosaurus,herbivorous,Mongolia,67,sauropod,7500000,c,13.0,mongoliensis,Cycadophyta cycas
+neovenator,carnivorous,United Kingdom,76,large theropod,9200000,c,7.4,salerii,becklespinax
+neuquenosaurus,herbivorous,Argentina,26,sauropod,8900000,c,10.0,australis,Metasequoia glyptostroboides
+nigersaurus,herbivorous,Russia,16,sauropod,62,k,15.0,taqueti,Equisetum arvense
+nipponosaurus,herbivorous,Russia,51,euornithopod,97,k,1.3,sachalinensis,Equisetum arvense
+noasaurus,carnivorous,Argentina,86,small theropod,100000,c,1.0,leali,eoraptor
+nodosaurus,herbivorous,USA,57,armoured dinosaur,27,k,5.0,textilis,Araucaria araucana
+nomingia,omnivorous,Mongolia,29,small theropod,6200000,c,1.6,gobiensis,avimimus
+nothronychus,omnivorous,USA,78,large theropod,7700000,c,5.3,mckinleyi,ammosaurus
+nqwebasaurus,carnivorous,South Africa,92,small theropod,30,h,1.0,thwazi,nqwebasaurus
+omeisaurus,herbivorous,China,69,sauropod,70,k,20.0,junghsiensis,Bambusa vulgaris
+opisthocoelicaudia,herbivorous,Mongolia,47,sauropod,7200000,c,12.0,skarzynskii,Cycadophyta cycas
+ornitholestes,carnivorous,USA,94,small theropod,2700000,c,2.0,hermanni,anchisaurus
+ornithomimus,omnivorous,USA,62,large theropod,9,k,4.0,velox,anchisaurus
+orodromeus,herbivorous,USA,69,euornithopod,620,h,2.0,makelai,Araucaria araucana
+oryctodromeus,herbivorous,USA,76,euornithopod,370,h,2.1,cubicularis,Araucaria araucana
+othnielia,herbivorous,USA,16,euornithopod,9700000,c,1.4,rex,Araucaria araucana
+ouranosaurus,herbivorous,Niger,90,euornithopod,51,k,7.0,nigeriensis,Magnolia grandiflora
+oviraptor,omnivorous,Mongolia,90,small theropod,440,h,2.0,philoceratops,avimimus
+pachycephalosaurus,herbivorous,USA,48,euornithopod,24,k,8.0,wyomingensis,Araucaria araucana
+pachyrhinosaurus,herbivorous,Canada,85,ceratopsian,79,k,6.0,canadensis,Thuja plicata
+panoplosaurus,herbivorous,USA,39,armoured dinosaur,5900000,c,7.0,mirus,Araucaria araucana
+pantydraco,herbivorous,South Africa,33,euornithopod,320,h,3.0,caducus,Equisetum arvense
+paralititan,herbivorous,Egypt,94,sauropod,9600000,c,28.0,stromeri,Phoenix dactylifera
+parasaurolophus,herbivorous,USA,23,euornithopod,880,h,11.0,walkeri,Araucaria araucana
+parksosaurus,herbivorous,Canada,10,euornithopod,520,h,3.0,warrenae,Thuja plicata
+patagosaurus,herbivorous,Argentina,69,sauropod,620,h,18.0,fariasi,Metasequoia glyptostroboides
+pelicanimimus,carnivorous,Spain,34,small theropod,580,h,2.0,polyodon,pelicanimimus
+pelorosaurus,herbivorous,United Kingdom,52,sauropod,520,h,25.0,conybearei,Picea abies
+pentaceratops,herbivorous,USA,95,ceratopsian,12,k,6.8,sternbergi,Araucaria araucana
+piatnitzkysaurus,carnivorous,Argentina,10,large theropod,3900000,c,4.2,floresi,alvarezsaurus
+pinacosaurus,herbivorous,Mongolia,19,armoured dinosaur,2,k,5.0,grangeri,Cycadophyta cycas
+plateosaurus,herbivorous,Russia,58,sauropod,30,h,7.0,engelhardti,Equisetum arvense
+podokesaurus,carnivorous,USA,96,small theropod,5600000,c,0.9,holyokensis,podokesaurus
+poekilopleuron,carnivorous,France,1,large theropod,810,h,9.0,bucklandii,dubreuillosaurus
+polacanthus,herbivorous,United Kingdom,69,armoured dinosaur,5900000,c,5.0,foxii,Picea abies
+prenocephale,herbivorous,Mongolia,4,euornithopod,2,k,2.4,prenes,Cycadophyta cycas
+probactrosaurus,herbivorous,China,16,euornithopod,200000,c,6.0,gobiensis,Bambusa vulgaris
+proceratosaurus,carnivorous,United Kingdom,24,small theropod,9200000,c,4.1,bradleyi,hypsilophodon
+procompsognathus,carnivorous,Germany,80,small theropod,5400000,c,1.0,triassicus,archaeopteryx
+prosaurolophus,herbivorous,USA,2,euornithopod,8700000,c,7.6,maximus,Araucaria araucana
+protarchaeopteryx,carnivorous,China,92,small theropod,9600000,c,2.0,robusta,agilisaurus
+protoceratops,herbivorous,Mongolia,32,ceratopsian,970,h,1.8,andrewsi,Cycadophyta cycas
+protohadros,herbivorous,USA,91,euornithopod,100000,c,6.0,byrdi,Araucaria araucana
+psittacosaurus,herbivorous,Russia,84,ceratopsian,1900000,c,2.0,mongoliensis,Equisetum arvense
+quaesitosaurus,herbivorous,Mongolia,24,sauropod,2,k,23.0,orientalis,Cycadophyta cycas
+rebbachisaurus,herbivorous,Madagascar,12,sauropod,5300000,c,20.0,garasbae,Ginkgo biloba
+rhabdodon,herbivorous,Spain,50,euornithopod,44,k,4.0,priscus,Sequoia sempervirens
+rhoetosaurus,herbivorous,Australia,35,sauropod,900,h,15.0,brownei,Dicksonia antarctica
+rinchenia,omnivorous,Mongolia,33,small theropod,3200000,c,2.5,mongoliensis,avimimus
+riojasaurus,omnivorous,Argentina,33,sauropod,70,k,5.15,incertus,alvarezsaurus
+rugops,carnivorous,Niger,61,large theropod,32,k,7.0,primus,ouranosaurus
+saichania,herbivorous,Mongolia,51,armoured dinosaur,680,h,6.6,chulsanensis,Cycadophyta cycas
+saltasaurus,herbivorous,Argentina,43,sauropod,5500000,c,12.0,loricatus,Metasequoia glyptostroboides
+saltopus,carnivorous,United Kingdom,12,small theropod,7500000,c,5.0,elginensis,becklespinax
+sarcosaurus,carnivorous,United Kingdom,67,small theropod,56,k,3.0,woodi,hypsilophodon
+saurolophus,herbivorous,Mongolia,65,euornithopod,1700000,c,9.0,osborni,Cycadophyta cycas
+sauropelta,herbivorous,USA,33,armoured dinosaur,38,k,6.5,edwardsorum,Araucaria araucana
+saurophaganax,carnivorous,USA,40,large theropod,2400000,c,12.0,maximus,achelousaurus
+saurornithoides,carnivorous,Mongolia,74,small theropod,69,k,3.0,mongoliensis,avimimus
+scelidosaurus,herbivorous,United Kingdom,43,armoured dinosaur,9800000,c,4.0,harrisonii,Picea abies
+scutellosaurus,herbivorous,USA,44,armoured dinosaur,700,h,1.2,lawleri,Araucaria araucana
+secernosaurus,herbivorous,Argentina,29,euornithopod,8600000,c,3.0,koerneri,Metasequoia glyptostroboides
+segisaurus,carnivorous,USA,13,small theropod,1100000,c,1.5,halli,bambiraptor
+segnosaurus,carnivorous,Mongolia,12,large theropod,160,h,4.0,galbinensis,anserimimus
+shamosaurus,herbivorous,Mongolia,95,armoured dinosaur,9700000,c,0.6,scutatus,Cycadophyta cycas
+shanag,carnivorous,Mongolia,46,small theropod,730,h,0.45,ashile,shanag
+shantungosaurus,herbivorous,China,2,euornithopod,5900000,c,15.0,giganteus,Bambusa vulgaris
+shunosaurus,herbivorous,China,35,sauropod,70,k,10.0,lii,Bambusa vulgaris
+shuvuuia,omnivorous,Mongolia,87,small theropod,80,k,0.6,deserti,microceratus
+silvisaurus,herbivorous,USA,81,armoured dinosaur,9300000,c,4.0,condrayi,Araucaria araucana
+sinocalliopteryx,carnivorous,China,90,small theropod,300000,c,2.37,gigas,agilisaurus
+sinornithosaurus,carnivorous,China,8,small theropod,2000000,c,2.0,millenii,agilisaurus
+sinosauropteryx,carnivorous,China,93,small theropod,59,k,1.0,prima,caudipteryx
+sinovenator,carnivorous,China,26,small theropod,3600000,c,1.0,changii,caudipteryx
+sinraptor,carnivorous,China,74,large theropod,19,k,7.6,hepingensis,agilisaurus
+sonidosaurus,herbivorous,China,90,sauropod,900,h,9.0,saihangaobiensis,Bambusa vulgaris
+spinosaurus,carnivorous,Madagascar,34,large theropod,67,k,18.0,aegyptiacus,deltadromeus
+staurikosaurus,carnivorous,Brazil,7,large theropod,19,k,2.0,pricei,guaibasaurus
+stegoceras,herbivorous,USA,68,euornithopod,200,h,2.4,validum,Araucaria araucana
+stegosaurus,herbivorous,USA,58,armoured dinosaur,96,k,9.0,armatus,Araucaria araucana
+stenopelix,herbivorous,Germany,75,ceratopsian,7100000,c,1.5,valdensis,Pinus longaeva
+struthiomimus,omnivorous,Canada,29,small theropod,5200000,c,4.0,altus,chirostenotes
+struthiosaurus,herbivorous,Spain,36,armoured dinosaur,33,k,2.5,austriacus,Sequoia sempervirens
+styracosaurus,herbivorous,USA,89,ceratopsian,4000000,c,5.5,albertensis,Araucaria araucana
+suchomimus,carnivorous,Niger,21,large theropod,39,k,11.0,tenerensis,afrovenator
+supersaurus,herbivorous,USA,36,sauropod,8200000,c,35.0,vivianae,Araucaria araucana
+talarurus,herbivorous,Mongolia,10,armoured dinosaur,100000,c,6.0,plicatospineus,Cycadophyta cycas
+tanius,herbivorous,China,73,euornithopod,11,k,4.0,sinensis,Bambusa vulgaris
+tarbosaurus,carnivorous,Mongolia,24,large theropod,9200000,c,10.0,bataar,achillobator
+tarchia,herbivorous,Mongolia,64,armoured dinosaur,57,k,8.5,gigantea,Cycadophyta cycas
+telmatosaurus,herbivorous,Spain,99,euornithopod,8900000,c,5.0,transsylvanicus,Sequoia sempervirens
+tenontosaurus,herbivorous,USA,49,euornithopod,5000000,c,7.0,tillettorum,Araucaria araucana
+thecodontosaurus,omnivorous,United Kingdom,99,sauropod,230,h,2.5,antiquus,hypsilophodon
+therizinosaurus,carnivorous,Mongolia,36,large theropod,310,h,3.5,cheloniformis,anserimimus
+thescelosaurus,herbivorous,USA,82,euornithopod,94,k,3.5,neglectus,Araucaria araucana
+torosaurus,herbivorous,USA,96,ceratopsian,420,h,7.5,latus,Araucaria araucana
+torvosaurus,carnivorous,USA,24,large theropod,99,k,10.0,tanneri,achelousaurus
+triceratops,herbivorous,USA,23,ceratopsian,70,h,9.0,horridus,Araucaria araucana
+troodon,carnivorous,USA,62,small theropod,1600000,c,2.0,formosus,anchisaurus
+tsagantegia,herbivorous,Mongolia,96,armoured dinosaur,90,k,1.2,longicranialis,Cycadophyta cycas
+tsintaosaurus,herbivorous,China,37,euornithopod,60,k,12.0,spinorhinus,Bambusa vulgaris
+tuojiangosaurus,herbivorous,China,12,armoured dinosaur,200000,c,7.0,multispinus,Bambusa vulgaris
+tylocephale,herbivorous,Mongolia,55,euornithopod,1,k,1.4,gilmorei,Cycadophyta cycas
+tyrannosaurus,carnivorous,USA,13,large theropod,48,k,12.0,rex,achelousaurus
+udanoceratops,herbivorous,Mongolia,23,ceratopsian,120,h,1.9,tschizhovi,Cycadophyta cycas
+unenlagia,carnivorous,Argentina,89,small theropod,69,k,2.4,comahuensis,alvarezsaurus
+urbacodon,carnivorous,Uzbekistan,99,small theropod,3700000,c,1.0,itemirensis,urbacodon
+utahraptor,carnivorous,USA,30,large theropod,320,h,6.0,ostrommaysorum,achelousaurus
+valdosaurus,herbivorous,United Kingdom,17,euornithopod,90,h,3.0,canaliculatus,Picea abies
+velociraptor,carnivorous,Mongolia,62,small theropod,9900000,c,1.8,mongoliensis,avimimus
+vulcanodon,herbivorous,South Africa,84,sauropod,1900000,c,6.5,karibaensis,Equisetum arvense
+yandusaurus,herbivorous,China,89,euornithopod,480,h,3.0,hongheensis,Bambusa vulgaris
+yangchuanosaurus,carnivorous,China,86,large theropod,80,k,10.0,shangyouensis,agilisaurus
+yimenosaurus,herbivorous,China,13,sauropod,30,h,9.0,youngi,Bambusa vulgaris
+yingshanosaurus,herbivorous,China,59,armoured dinosaur,2000000,c,2.0,jichuanensis,Bambusa vulgaris
+yinlong,herbivorous,China,19,ceratopsian,240,h,1.2,downsi,Bambusa vulgaris
+yuanmousaurus,herbivorous,China,49,sauropod,5400000,c,17.0,jiangyiensis,Bambusa vulgaris
+yunnanosaurus,omnivorous,China,12,sauropod,330,h,7.0,huangi,agilisaurus
+zalmoxes,herbivorous,Russia,61,euornithopod,24,k,3.0,robustus,Equisetum arvense
+zephyrosaurus,herbivorous,USA,19,euornithopod,750,h,1.8,schaffi,Araucaria araucana
+zuniceratops,herbivorous,USA,76,ceratopsian,720,h,1.2,christopheri,Araucaria araucana
+Araucaria mirabilis,photosynthesis,Japan,9,Plant,3600000,c,5.0,mirabilis,Sunlight
+Metasequoia glyptostroboides,photosynthesis,Argentina,71,Plant,3800000,c,9.0,glyptostroboides,Sunlight
+Cycadophyta cycas,photosynthesis,Mongolia,28,Plant,8400000,c,15.0,cycas,Sunlight
+Ginkgo biloba,photosynthesis,Madagascar,78,Plant,990,h,6.0,biloba,Sunlight
+Magnolia grandiflora,photosynthesis,Niger,95,Plant,89,k,20.0,grandiflora,Sunlight
+Welwitschia mirabilis,photosynthesis,Kazakhstan,52,Plant,9900000,c,10.0,mirabilis,Sunlight
+Sequoia sempervirens,photosynthesis,Spain,83,Plant,2500000,c,4.0,sempervirens,Sunlight
+Equisetum arvense,photosynthesis,South Africa,16,Plant,930,h,1.5,arvense,Sunlight
+Araucaria araucana,photosynthesis,USA,69,Plant,1800000,c,8.3,araucana,Sunlight
+Dicksonia antarctica,photosynthesis,Australia,99,Plant,82,k,5.7,antarctica,Sunlight
+Pinus longaeva,photosynthesis,Germany,12,Plant,66,k,2.0,longaeva,Sunlight
+Cyathea australis,photosynthesis,Tanzania,25,Plant,5400000,c,4.0,australis,Sunlight
+Araucaria heterophylla,photosynthesis,Australia,52,Plant,3500000,c,7.9,heterophylla,Sunlight
+Equisetum arvense,photosynthesis,Russia,85,Plant,800,h,0.7,arvense,Sunlight
+Quercus robur,photosynthesis,France,53,Plant,61,k,3.6,robur,Sunlight
+Phoenix dactylifera,photosynthesis,Egypt,23,Plant,41,k,25.0,dactylifera,Sunlight
+Bambusa vulgaris,photosynthesis,China,16,Plant,10000000,c,2.0,vulgaris,Sunlight
+Picea abies,photosynthesis,United Kingdom,57,Plant,330,h,3.8,abies,Sunlight
+Thuja plicata,photosynthesis,Canada,39,Plant,68,k,7.3,plicata,Sunlight
+Ficus religiosa,photosynthesis,India,53,Plant,33,k,4.2,religiosa,Sunlight
+Nothofagus fusca,photosynthesis,Brazil,42,Plant,140,h,7.9,fusca,Sunlight
+Jubaea chilensis,photosynthesis,Uruguay,58,Plant,210,h,4.0,chilensis,Sunlight
+Carcharodon megalodon,carnivorous,Global Oceans,39,Fish,48,k,18.0,megalodon,Carcharodon megalodon
+Xiphactinus audax,carnivorous,Western Interior Seaway,14,Fish,20,k,5.5,audax,Xiphactinus audax
+Leedsichthys problematicus,herbivorous,France,95,Fish,80,h,16.0,problematicus,Quercus robur
+Pachycormus,omnivorous,Germany,5,Fish,7,k,3.0,pachycormus,archaeopteryx
+Hyneria lindae,carnivorous,Euramerica,35,Fish,6700000,c,4.0,lindae,Hyneria lindae
+Dunkleosteus terrelli,carnivorous,Worldwide,87,Fish,1700000,c,6.0,terrelli,Dunkleosteus terrelli
+Titanichthys,filter-feeder,Worldwide,93,Fish,330,h,6.0,agassizi,Dunkleosteus terrelli
+Coelacanth,carnivorous,Oceans,75,Fish,480,h,2.0,latimeria,Coelacanth
+Cladoselache,carnivorous,USA,18,Fish,760,h,2.0,cladoselache,anchisaurus
+Stethacanthus,carnivorous,Oceans,76,Fish,5900000,c,2.0,altonensis,Coelacanth
+Onychodus,carnivorous,Oceans,9,Fish,86,k,2.0,sigmoides,Coelacanth
+Holophagus,carnivorous,France,74,Fish,2200000,c,1.5,penicillatus,Holophagus
+Cretoxyrhina mantelli,carnivorous,Western Interior Seaway,58,Fish,30,k,7.0,mantelli,Xiphactinus audax
+Mawsonia,carnivorous,Brazil,17,Fish,3800000,c,3.0,gigantea,guaibasaurus
+Enchodus,carnivorous,Oceans,7,Fish,51,k,1.5,petrosus,Enchodus
+Protosphyrna,carnivorous,Oceans,46,Fish,5400000,c,2.0,palustris,Coelacanth
+Gillicus arcuatus,carnivorous,Western Interior Seaway,13,Fish,80,h,1.8,arcuatus,Gillicus arcuatus
+Squalicorax,carnivorous,Oceans,40,Fish,2700000,c,5.0,pristodontus,Coelacanth
+Macropoma,carnivorous,Oceans,42,Fish,27,k,1.5,lewigii,Enchodus
+Aipichthys,omnivorous,Germany,9,Fish,9800000,c,0.3,velifer,Aipichthys

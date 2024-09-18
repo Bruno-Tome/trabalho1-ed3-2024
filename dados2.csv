@@ -1,0 +1,310 @@
+nome,dieta,habitat,populacao,tipo,velocidade,unidadeMedida,tamanho,especie,alimento
+aardonyx,herbivorous,South Africa,52,sauropod,38,k,8.0,celestae,Araucaria araucana
+abelisaurus,carnivorous,Argentina,93,large theropod,20,k,,comahuensis,alvarezsaurus
+achelousaurus,herbivorous,,,ceratopsian,38,k,6.0,horneri,
+achillobator,carnivorous,Mongolia,72,large theropod,45,k,5.0,giganteus,anserimimus
+acrocanthosaurus,carnivorous,USA,61,large theropod,38,k,12.0,atokensis,achelousaurus
+aegyptosaurus,herbivorous,Egypt,,sauropod,33,k,15.0,baharijensis,
+afrovenator,carnivorous,Niger,83,large theropod,56,k,9.0,abakensis,ouranosaurus
+agilisaurus,herbivorous,,,,,,,louderbacki,
+alamosaurus,herbivorous,,,sauropod,330,h,21.0,sanjuanensis,
+albertaceratops,herbivorous,USA,,ceratopsian,45,k,7.0,nesmoi,
+albertosaurus,carnivorous,Canada,88,large theropod,25,k,9.0,libratus,anchiceratops
+alectrosaurus,carnivorous,Mongolia,24,large theropod,4500000,c,5.0,olseni,anserimimus
+alioramus,carnivorous,Mongolia,3,large theropod,,,,remotus,achillobator
+allosaurus,carnivorous,USA,22,large theropod,,,12.0,fragilis,achelousaurus
+alvarezsaurus,carnivorous,Argentina,53,small theropod,38,k,2.0,calvoi,buitreraptor
+amargasaurus,herbivorous,Argentina,,sauropod,6,k,12.0,cazaui,
+ammosaurus,herbivorous,USA,,sauropod,600000,c,5.0,major,
+ampelosaurus,herbivorous,France,,sauropod,560,h,15.0,atacis,
+amygdalodon,herbivorous,,,sauropod,580,h,15.0,patagonicus,
+anchiceratops,herbivorous,,,ceratopsian,450,h,,ornatus,
+anchisaurus,herbivorous,,,sauropod,4500000,c,2.0,polyzelous,
+ankylosaurus,herbivorous,USA,,armoured dinosaur,32,k,7.0,magniventris,
+anserimimus,carnivorous,Mongolia,21,,440,h,3.5,planinychus,avimimus
+antarctosaurus,herbivorous,Uruguay,,sauropod,60,h,18.0,wichmannianus,
+apatosaurus,herbivorous,USA,76,sauropod,4400000,c,21.0,ajax,Araucaria mirabilis
+aragosaurus,herbivorous,Spain,,,380,h,,ischiadicus,
+aralosaurus,herbivorous,Kazakhstan,,euornithopod,4400000,c,8.0,tuberiferus,
+archaeoceratops,herbivorous,China,,ceratopsian,32,k,1.3,oshimai,
+archaeopteryx,carnivorous,Germany,49,small theropod,3300000,c,0.5,lithographica,Aipichthys
+archaeornithomimus,carnivorous,Uzbekistan,91,small theropod,3200000,c,3.5,asiaticus,urbacodon
+argentinosaurus,herbivorous,Argentina,59,sauropod,4400000,c,35.0,huinculensis,Metasequoia glyptostroboides
+arrhinoceratops,herbivorous,Canada,,,3200000,c,6.0,brachyops,
+atlascopcosaurus,herbivorous,Australia,,euornithopod,25,k,3.0,loadsi,
+aucasaurus,carnivorous,Argentina,60,large theropod,38,k,5.0,garridoi,alvarezsaurus
+austrosaurus,herbivorous,,,,450,h,,mckillopi,
+avaceratops,herbivorous,USA,,ceratopsian,33,k,2.3,lammersi,
+avimimus,omnivorous,Mongolia,62,small theropod,45,k,1.5,portentosus,bagaceratops
+bactrosaurus,herbivorous,China,,euornithopod,60,h,6.0,johnsoni,
+bagaceratops,herbivorous,,,ceratopsian,,,,rozhdestvenskyi,
+bambiraptor,carnivorous,,62,small theropod,45,k,1.0,feinbergorum,podokesaurus
+barapasaurus,herbivorous,India,,sauropod,,,14.0,tagorei,
+barosaurus,herbivorous,USA,55,sauropod,3800000,c,24.0,lentus,Araucaria mirabilis
+baryonyx,carnivorous,United Kingdom,64,,3300000,c,10.0,walkeri,becklespinax
+becklespinax,carnivorous,,3,large theropod,560,h,5.0,altispinax,hypsilophodon
+beipiaosaurus,omnivorous,China,51,small theropod,60,h,2.0,inexpectus,agilisaurus
+bellusaurus,herbivorous,China,,sauropod,250,h,5.0,sui,
+borogovia,carnivorous,,21,small theropod,5600000,c,,gracilicrus,bagaceratops
+brachiosaurus,herbivorous,USA,73,sauropod,38,k,,altithorax,Araucaria mirabilis
+brachylophosaurus,herbivorous,,,euornithopod,4500000,c,7.0,canadensis,
+brachytrachelopan,herbivorous,Argentina,,sauropod,250,h,10.0,mesai,
+buitreraptor,carnivorous,Argentina,4,,32,k,1.3,gonzalezorum,eoraptor
+camarasaurus,herbivorous,,,,44,k,23.0,supremus,
+camptosaurus,herbivorous,,,euornithopod,2500000,c,,dispar,
+carcharodontosaurus,carnivorous,,,large theropod,450,h,15.0,saharicus,
+carnotaurus,carnivorous,Argentina,9,large theropod,3800000,c,7.6,sastrei,alvarezsaurus
+caudipteryx,omnivorous,China,90,small theropod,58,k,1.0,zoui,confuciusornis
+cedarpelta,herbivorous,USA,,armoured dinosaur,4400000,c,10.0,bilbeyhallorum,
+centrosaurus,herbivorous,Canada,,ceratopsian,,,6.0,gonzalezorum,
+ceratosaurus,carnivorous,USA,84,,6000000,c,6.0,nasicornis,ammosaurus
+cetiosauriscus,herbivorous,,,sauropod,,,15.0,stewarti,
+cetiosaurus,herbivorous,United Kingdom,,sauropod,250,h,,oxoniensis,
+chaoyangsaurus,herbivorous,China,,ceratopsian,,,1.1,youngi,
+chasmosaurus,herbivorous,,,ceratopsian,450,h,5.0,gonzalezorum,
+chindesaurus,carnivorous,USA,8,small theropod,38,k,4.0,bryansmalli,anchisaurus
+chinshakiangosaurus,herbivorous,China,,sauropod,3200000,c,11.0,zhongheensis,
+chirostenotes,omnivorous,Canada,,small theropod,4500000,c,1.7,pergracilis,
+chubutisaurus,herbivorous,Argentina,,sauropod,600000,c,,insignis,
+chungkingosaurus,herbivorous,China,,,45,k,4.0,jiangbeiensis,
+citipati,omnivorous,Mongolia,36,small theropod,45,k,2.1,osmolskae,avimimus
+coelophysis,carnivorous,,50,small theropod,,,2.0,gonzalezorum,heterodontosaurus
+coelurus,carnivorous,,4,small theropod,,,1.8,fragilis,bambiraptor
+coloradisaurus,omnivorous,,2,sauropod,250,h,4.0,brevis,alvarezsaurus
+compsognathus,carnivorous,,6,small theropod,450,h,0.65,longipes,archaeopteryx
+conchoraptor,carnivorous,Mongolia,54,small theropod,560,h,1.5,gracilis,bagaceratops
+confuciusornis,carnivorous,China,4,small theropod,,,0.25,sanctus,jinzhousaurus
+corythosaurus,herbivorous,USA,,euornithopod,3800000,c,10.0,casuarius,
+cryolophosaurus,carnivorous,Antarctica,,large theropod,5800000,c,8.0,elliotti,
+dacentrurus,herbivorous,United Kingdom,,armoured dinosaur,60,h,,armatus,
+daspletosaurus,carnivorous,Canada,18,large theropod,,,9.0,torosus,anchiceratops
+datousaurus,herbivorous,,,sauropod,3800000,c,15.0,bashanensis,
+deinocheirus,omnivorous,Mongolia,44,large theropod,380,h,10.0,mirificus,achillobator
+deinonychus,carnivorous,USA,34,small theropod,6,k,3.0,antirrhopus,anchisaurus
+deltadromeus,carnivorous,,74,,560,h,8.1,agilis,lapparentosaurus
+dicraeosaurus,herbivorous,Tanzania,,sauropod,38,k,20.0,hansemanni,
+dilophosaurus,carnivorous,USA,14,large theropod,5800000,c,6.0,gonzalezorum,ammosaurus
+diplodocus,herbivorous,USA,,sauropod,380,h,26.0,longus,
+dromaeosaurus,carnivorous,,48,small theropod,3800000,c,1.8,albertensis,bambiraptor
+dromiceiomimus,omnivorous,,15,large theropod,38,k,3.5,brevitertius,chirostenotes
+dryosaurus,herbivorous,,,euornithopod,32,k,4.0,altus,
+dryptosaurus,carnivorous,USA,78,large theropod,32,k,6.4,aquilunguis,achelousaurus
+dubreuillosaurus,carnivorous,,87,large theropod,5600000,c,5.0,valesdunensis,Quercus robur
+edmontonia,herbivorous,Canada,,armoured dinosaur,,,,longiceps,
+edmontosaurus,herbivorous,Canada,,euornithopod,3800000,c,13.0,regalis,
+einiosaurus,herbivorous,,,ceratopsian,4500000,c,,procurvicornis,
+elaphrosaurus,carnivorous,,80,large theropod,,,6.2,bambergi,kentrosaurus
+emausaurus,herbivorous,Germany,,armoured dinosaur,5600000,c,2.0,ernsti,
+eolambia,herbivorous,USA,,euornithopod,33,k,3.2,caroljonesa,
+eoraptor,carnivorous,Argentina,24,small theropod,,,1.0,lunensis,gasparinisaura
+eotyrannus,carnivorous,United Kingdom,26,large theropod,,,5.0,lengi,hypsilophodon
+equijubus,herbivorous,China,,euornithopod,44,k,12.0,normani,
+erketu,herbivorous,,,sauropod,250,h,15.0,ellisoni,
+erlikosaurus,omnivorous,Mongolia,41,small theropod,440,h,3.4,andrewsi,avimimus
+euhelopus,herbivorous,China,,,5800000,c,10.0,zdanskyi,
+euoplocephalus,herbivorous,USA,,armoured dinosaur,32,k,,gonzalezorum,
+europasaurus,herbivorous,Germany,,sauropod,32,k,6.2,holgeri,
+eustreptospondylus,carnivorous,,65,large theropod,25,k,7.0,oxoniensis,becklespinax
+fukuiraptor,carnivorous,Japan,89,large theropod,600,h,4.2,kitadaniensis,fukuisaurus
+fukuisaurus,herbivorous,Japan,,euornithopod,60,h,4.7,tetoriensius,
+gallimimus,omnivorous,Mongolia,9,large theropod,56,k,6.0,bullatus,achillobator
+gargoyleosaurus,herbivorous,,,armoured dinosaur,45,k,4.0,parkpinorum,
+garudimimus,omnivorous,Mongolia,24,large theropod,25,k,4.7,brevipes,anserimimus
+gasosaurus,carnivorous,China,8,small theropod,,,4.0,constructus,agilisaurus
+gasparinisaura,herbivorous,,88,euornithopod,60,h,0.8,cincosaltensis,Metasequoia glyptostroboides
+gastonia,herbivorous,USA,,armoured dinosaur,38,k,,burgei,
+giganotosaurus,carnivorous,Argentina,11,large theropod,45,k,12.5,carolinii,abelisaurus
+gilmoreosaurus,herbivorous,China,,euornithopod,4500000,c,6.0,mongoliensis,
+giraffatitan,herbivorous,Tanzania,,,,,23.0,brancai,
+gobisaurus,herbivorous,China,,armoured dinosaur,5800000,c,5.0,domoculus,
+gorgosaurus,carnivorous,,35,large theropod,380,h,8.6,libratus,achelousaurus
+goyocephale,herbivorous,Mongolia,,large theropod,38,k,2.0,lattimorei,
+graciliceratops,herbivorous,Mongolia,,,25,k,1.0,mongoliensis,
+gryposaurus,herbivorous,,,,4500000,c,10.0,notabilis,
+guaibasaurus,herbivorous,Brazil,,small theropod,560,h,1.8,candelariensis,
+guanlong,carnivorous,,7,small theropod,5800000,c,3.0,wucaii,agilisaurus
+hadrosaurus,herbivorous,USA,,euornithopod,600000,c,9.0,foulkii,
+hagryphus,omnivorous,USA,72,,2500000,c,3.0,giganteus,anchisaurus
+haplocanthosaurus,herbivorous,USA,,sauropod,600000,c,21.5,priscus,
+harpymimus,omnivorous,Mongolia,34,small theropod,25,k,2.0,okladnikovi,avimimus
+herrerasaurus,carnivorous,Argentina,33,small theropod,25,k,,ischigualastensis,alvarezsaurus
+hesperosaurus,herbivorous,USA,,armoured dinosaur,2500000,c,6.0,mjosi,
+heterodontosaurus,herbivorous,South Africa,23,euornithopod,450,h,1.2,tucki,Equisetum arvense
+heyuannia,omnivorous,,62,small theropod,560,h,2.0,yanshini,avimimus
+homalocephale,herbivorous,Mongolia,,euornithopod,250,h,1.5,calathocercos,
+huayangosaurus,herbivorous,,,armoured dinosaur,330,h,4.5,taibaii,
+hylaeosaurus,herbivorous,United Kingdom,,,4500000,c,,armatus,
+hypacrosaurus,herbivorous,USA,,euornithopod,6,k,,altispinus,
+hypsilophodon,herbivorous,United Kingdom,,euornithopod,,,2.3,foxii,
+iguanodon,herbivorous,United Kingdom,,euornithopod,440,h,10.0,bernissartensis,
+indosuchus,carnivorous,,35,large theropod,5800000,c,7.0,raptorius,isisaurus
+irritator,carnivorous,,65,,320,h,6.5,challengeri,guaibasaurus
+isisaurus,herbivorous,,,sauropod,560,h,6.0,colberti,
+janenschia,herbivorous,Tanzania,,sauropod,,,20.0,robusta,
+jaxartosaurus,herbivorous,Kazakhstan,,euornithopod,3800000,c,9.0,aralensis,
+jingshanosaurus,herbivorous,China,,sauropod,33,k,5.0,xinwaensis,
+jinzhousaurus,herbivorous,,,euornithopod,32,k,1.2,yangi,
+jobaria,herbivorous,Niger,,sauropod,4400000,c,21.0,tiguidensis,
+juravenator,carnivorous,Germany,90,small theropod,,,0.8,starki,archaeopteryx
+kentrosaurus,herbivorous,Tanzania,,,32,k,5.0,aethiopicus,
+khaan,omnivorous,,27,small theropod,,,1.8,mckennai,avimimus
+kotasaurus,herbivorous,India,,sauropod,33,k,,yamanpalliensis,
+kritosaurus,herbivorous,USA,,euornithopod,2300000,c,8.0,navajovius,
+lambeosaurus,herbivorous,,,euornithopod,38,k,9.0,lambei,
+lapparentosaurus,herbivorous,,,sauropod,25,k,3.0,madagascariensis,
+leaellynasaura,herbivorous,Australia,,,600000,c,,amicagraphica,
+leptoceratops,herbivorous,USA,,ceratopsian,380,h,3.0,gracilis,
+lesothosaurus,herbivorous,China,,sauropod,25,k,1.0,diagnosticus,
+liaoceratops,herbivorous,China,,ceratopsian,45,k,2.5,yanzigouensis,
+ligabuesaurus,herbivorous,Argentina,,sauropod,45,k,,leanzai,
+liliensternus,carnivorous,,52,small theropod,45,k,5.0,liliensterni,archaeopteryx
+lophorhothon,herbivorous,USA,,,50,h,4.5,atopus,
+lophostropheus,carnivorous,France,4,large theropod,45,k,6.2,airelensis,dubreuillosaurus
+lufengosaurus,herbivorous,China,,sauropod,8,k,6.0,huenei,
+lurdusaurus,herbivorous,,,euornithopod,50000,c,9.0,arenatus,
+lycorhinus,herbivorous,South Africa,,euornithopod,4,k,1.2,angustidens,
+magyarosaurus,herbivorous,,,sauropod,60,h,5.0,dacus,
+maiasaura,herbivorous,USA,,euornithopod,40,h,,peeblesorum,
+majungasaurus,carnivorous,Madagascar,36,,330,h,6.0,atopus,lapparentosaurus
+malawisaurus,herbivorous,,,,440,h,9.0,dixeyi,
+mamenchisaurus,herbivorous,China,,sauropod,33,k,22.0,constructus,
+mapusaurus,carnivorous,,71,large theropod,44,k,13.0,roseae,abelisaurus
+marshosaurus,carnivorous,USA,59,large theropod,450,h,6.0,bicentesimus,ammosaurus
+masiakasaurus,carnivorous,Madagascar,,small theropod,560,h,2.0,knopfleri,
+massospondylus,omnivorous,South Africa,28,sauropod,56,k,4.0,carinatus,coelophysis
+maxakalisaurus,herbivorous,Brazil,,sauropod,450,h,13.0,topai,
+megalosaurus,carnivorous,United Kingdom,42,large theropod,,,,bucklandii,becklespinax
+melanorosaurus,omnivorous,,45,sauropod,,,12.0,readi,aardonyx
+metriacanthosaurus,carnivorous,United Kingdom,62,,,,8.2,parkeri,becklespinax
+microceratus,herbivorous,Mongolia,,ceratopsian,,,0.5,gobiensis,
+micropachycephalosaurus,herbivorous,China,,ceratopsian,3800000,c,0.6,hongtuyanensis,
+microraptor,carnivorous,China,28,small theropod,38,k,0.8,zhaoianus,confuciusornis
+minmi,herbivorous,Australia,,armoured dinosaur,25,k,3.0,paravertebra,
+monolophosaurus,carnivorous,China,44,large theropod,3200000,c,5.7,jiangi,agilisaurus
+mononykus,herbivorous,Mongolia,,small theropod,600000,c,1.0,olecranus,
+mussaurus,herbivorous,Argentina,,sauropod,38,k,3.0,patagonicus,
+muttaburrasaurus,herbivorous,Australia,,euornithopod,60,h,7.0,langdoni,
+nanshiungosaurus,omnivorous,China,75,large theropod,,,4.4,brevispinus,agilisaurus
+nedoceratops,herbivorous,,,ceratopsian,3800000,c,7.0,hatcheri,
+nemegtosaurus,herbivorous,Mongolia,,sauropod,45,k,,mongoliensis,
+neovenator,carnivorous,United Kingdom,62,,320,h,7.4,salerii,becklespinax
+neuquenosaurus,herbivorous,,97,sauropod,2500000,c,10.0,australis,Metasequoia glyptostroboides
+nigersaurus,herbivorous,Russia,,sauropod,,,15.0,taqueti,
+nipponosaurus,herbivorous,Russia,,euornithopod,20,h,1.3,sachalinensis,
+noasaurus,carnivorous,Argentina,62,small theropod,32,k,1.0,leali,gasparinisaura
+nodosaurus,herbivorous,,,armoured dinosaur,2200000,c,5.0,textilis,
+nomingia,omnivorous,,3,small theropod,320,h,1.6,gobiensis,avimimus
+nothronychus,omnivorous,USA,70,large theropod,4500000,c,5.3,mckinleyi,ammosaurus
+nqwebasaurus,carnivorous,South Africa,,small theropod,450,h,,thwazi,
+omeisaurus,herbivorous,,,sauropod,6,k,20.0,junghsiensis,
+opisthocoelicaudia,herbivorous,Mongolia,,sauropod,44,k,12.0,skarzynskii,
+ornitholestes,carnivorous,USA,62,small theropod,4500000,c,2.0,hermanni,bambiraptor
+ornithomimus,omnivorous,USA,37,large theropod,,,4.0,velox,anchisaurus
+orodromeus,herbivorous,,,euornithopod,320,h,2.0,makelai,
+oryctodromeus,herbivorous,,,euornithopod,3300000,c,2.1,cubicularis,
+othnielia,herbivorous,USA,,euornithopod,,,1.4,rex,
+ouranosaurus,herbivorous,,,euornithopod,400000,c,7.0,nigeriensis,
+oviraptor,omnivorous,Mongolia,79,small theropod,,,2.0,philoceratops,avimimus
+pachycephalosaurus,herbivorous,USA,,,30,h,8.0,wyomingensis,
+pachyrhinosaurus,herbivorous,Canada,,ceratopsian,70,h,6.0,canadensis,
+panoplosaurus,herbivorous,,,armoured dinosaur,90,h,7.0,mirus,
+pantydraco,herbivorous,South Africa,,euornithopod,6,k,3.0,caducus,
+paralititan,herbivorous,,,sauropod,1000000,c,28.0,stromeri,
+parasaurolophus,herbivorous,USA,,euornithopod,800000,c,,walkeri,
+parksosaurus,herbivorous,Canada,,euornithopod,44,k,,warrenae,
+patagosaurus,herbivorous,Argentina,,sauropod,250,h,18.0,fariasi,
+pelicanimimus,carnivorous,Spain,,,32,k,2.0,polyodon,
+pelorosaurus,herbivorous,United Kingdom,,sauropod,45,k,25.0,conybearei,
+pentaceratops,herbivorous,USA,,ceratopsian,44,k,6.8,sternbergi,
+piatnitzkysaurus,carnivorous,Argentina,3,large theropod,5600000,c,4.2,floresi,alvarezsaurus
+pinacosaurus,herbivorous,,,armoured dinosaur,58,k,5.0,grangeri,
+plateosaurus,herbivorous,,,,1500000,c,7.0,engelhardti,
+podokesaurus,carnivorous,USA,,small theropod,2100000,c,0.9,holyokensis,
+poekilopleuron,carnivorous,France,2,large theropod,4500000,c,9.0,bucklandii,dubreuillosaurus
+polacanthus,herbivorous,United Kingdom,,armoured dinosaur,250,h,5.0,foxii,
+prenocephale,herbivorous,Mongolia,,euornithopod,2300000,c,2.4,prenes,
+probactrosaurus,herbivorous,China,,euornithopod,600000,c,6.0,gobiensis,
+proceratosaurus,carnivorous,United Kingdom,87,small theropod,560,h,4.1,bradleyi,hypsilophodon
+procompsognathus,carnivorous,Germany,96,small theropod,5600000,c,,triassicus,archaeopteryx
+prosaurolophus,herbivorous,USA,,euornithopod,,,7.6,maximus,
+protarchaeopteryx,carnivorous,China,34,small theropod,,,2.0,robusta,agilisaurus
+protoceratops,herbivorous,,,ceratopsian,3800000,c,1.8,andrewsi,
+protohadros,herbivorous,,,euornithopod,320,h,,byrdi,
+psittacosaurus,herbivorous,Russia,,,58,k,2.0,mongoliensis,
+quaesitosaurus,herbivorous,Mongolia,,sauropod,50,h,23.0,orientalis,
+rebbachisaurus,herbivorous,Madagascar,,sauropod,,,20.0,garasbae,
+rhabdodon,herbivorous,Spain,,euornithopod,80,h,4.0,priscus,
+rhoetosaurus,herbivorous,Australia,,sauropod,6,k,15.0,brownei,
+rinchenia,omnivorous,Mongolia,32,small theropod,110,h,2.5,mongoliensis,avimimus
+riojasaurus,omnivorous,Argentina,68,sauropod,45,k,5.15,incertus,alvarezsaurus
+rugops,carnivorous,Niger,,,,,7.0,primus,
+saichania,herbivorous,Mongolia,,armoured dinosaur,120,h,,chulsanensis,
+saltasaurus,herbivorous,,,,30,k,12.0,loricatus,
+saltopus,carnivorous,,17,small theropod,3300000,c,5.0,elginensis,hypsilophodon
+sarcosaurus,carnivorous,United Kingdom,38,small theropod,32,k,3.0,woodi,hypsilophodon
+saurolophus,herbivorous,Mongolia,,euornithopod,56,k,9.0,osborni,
+sauropelta,herbivorous,USA,,armoured dinosaur,45,k,6.5,edwardsorum,
+saurophaganax,carnivorous,USA,98,large theropod,25,k,12.0,maximus,achelousaurus
+saurornithoides,carnivorous,Mongolia,70,small theropod,330,h,3.0,mongoliensis,avimimus
+scelidosaurus,herbivorous,,,armoured dinosaur,600000,c,4.0,harrisonii,
+scutellosaurus,herbivorous,USA,,armoured dinosaur,25,k,1.2,lawleri,
+secernosaurus,herbivorous,Argentina,,euornithopod,240,h,3.0,koerneri,
+segisaurus,carnivorous,USA,97,,4400000,c,1.5,halli,bambiraptor
+segnosaurus,carnivorous,Mongolia,73,,,,4.0,galbinensis,anserimimus
+shamosaurus,herbivorous,,,armoured dinosaur,1800000,c,0.6,scutatus,
+shanag,carnivorous,Mongolia,,small theropod,1600000,c,0.45,ashile,
+shantungosaurus,herbivorous,,,euornithopod,2300000,c,15.0,giganteus,
+shunosaurus,herbivorous,China,,sauropod,38,k,,lii,
+shuvuuia,omnivorous,Mongolia,34,small theropod,6,k,0.6,deserti,microceratus
+silvisaurus,herbivorous,USA,,armoured dinosaur,250,h,4.0,condrayi,
+sinocalliopteryx,carnivorous,China,59,small theropod,150,h,,gigas,agilisaurus
+sinornithosaurus,carnivorous,,36,small theropod,30,h,2.0,millenii,agilisaurus
+sinosauropteryx,carnivorous,,19,small theropod,900000,c,1.0,prima,confuciusornis
+sinovenator,carnivorous,China,90,small theropod,1100000,c,,changii,confuciusornis
+sinraptor,carnivorous,China,67,large theropod,45,k,,hepingensis,agilisaurus
+sonidosaurus,herbivorous,China,,,1300000,c,9.0,saihangaobiensis,
+spinosaurus,carnivorous,Madagascar,20,large theropod,3800000,c,18.0,aegyptiacus,deltadromeus
+staurikosaurus,carnivorous,,96,large theropod,3000000,c,2.0,pricei,guaibasaurus
+stegoceras,herbivorous,,,euornithopod,,,2.4,validum,
+stegosaurus,herbivorous,USA,,armoured dinosaur,120,h,9.0,armatus,
+stenopelix,herbivorous,Germany,,ceratopsian,60,h,1.5,valdensis,
+struthiomimus,omnivorous,,40,,38,k,4.0,altus,chirostenotes
+struthiosaurus,herbivorous,Spain,,,600000,c,2.5,austriacus,
+styracosaurus,herbivorous,USA,,ceratopsian,600000,c,5.5,albertensis,
+suchomimus,carnivorous,Niger,145,large theropod,58,k,11.0,tenerensis,afrovenator
+supersaurus,herbivorous,,,sauropod,2000000,c,,vivianae,
+talarurus,herbivorous,Mongolia,,armoured dinosaur,1300000,c,,plicatospineus,
+tanius,herbivorous,,,euornithopod,210,h,4.0,sinensis,
+tarbosaurus,carnivorous,Mongolia,89,large theropod,58,k,10.0,bataar,achillobator
+tarchia,herbivorous,Mongolia,,armoured dinosaur,26,k,8.5,gigantea,
+telmatosaurus,herbivorous,,,euornithopod,12,k,5.0,transsylvanicus,
+tenontosaurus,herbivorous,USA,,euornithopod,24,k,7.0,tillettorum,
+thecodontosaurus,omnivorous,United Kingdom,94,sauropod,130,h,2.5,antiquus,hypsilophodon
+therizinosaurus,carnivorous,,42,large theropod,270,h,3.5,cheloniformis,avimimus
+thescelosaurus,herbivorous,USA,,euornithopod,1400000,c,3.5,neglectus,
+torosaurus,herbivorous,USA,,,1600000,c,7.5,latus,
+torvosaurus,carnivorous,USA,16,large theropod,4400000,c,10.0,tanneri,achelousaurus
+triceratops,herbivorous,,,,600000,c,9.0,horridus,
+troodon,carnivorous,,60,small theropod,250,h,2.0,formosus,bambiraptor
+tsagantegia,herbivorous,Mongolia,,armoured dinosaur,16,k,1.2,longicranialis,
+tsintaosaurus,herbivorous,China,,euornithopod,220,h,,spinorhinus,
+tuojiangosaurus,herbivorous,China,,armoured dinosaur,1800000,c,7.0,multispinus,
+tylocephale,herbivorous,,,euornithopod,60,h,1.4,gilmorei,
+tyrannosaurus,carnivorous,USA,69,,45,k,12.0,rex,achelousaurus
+udanoceratops,herbivorous,Mongolia,,,,,1.9,tschizhovi,
+unenlagia,carnivorous,,32,,44,k,,comahuensis,alvarezsaurus
+urbacodon,carnivorous,Uzbekistan,,small theropod,60,h,1.0,itemirensis,
+utahraptor,carnivorous,USA,99,large theropod,360,h,6.0,ostrommaysorum,ammosaurus
+valdosaurus,herbivorous,United Kingdom,,euornithopod,180,h,3.0,canaliculatus,
+velociraptor,carnivorous,Mongolia,48,small theropod,2500000,c,1.8,mongoliensis,avimimus
+vulcanodon,herbivorous,,,sauropod,230,h,6.5,karibaensis,
+yandusaurus,herbivorous,China,,euornithopod,90,h,,hongheensis,
+yangchuanosaurus,carnivorous,China,20,large theropod,320,h,10.0,shangyouensis,agilisaurus
+yimenosaurus,herbivorous,,,,21,k,,youngi,
+yingshanosaurus,herbivorous,,,,12,k,2.0,jichuanensis,
+yinlong,herbivorous,China,,ceratopsian,600000,c,,downsi,
+yuanmousaurus,herbivorous,,,sauropod,2800000,c,17.0,jiangyiensis,
+yunnanosaurus,omnivorous,China,75,,34,k,,huangi,agilisaurus
+zalmoxes,herbivorous,,,euornithopod,10,k,3.0,robustus,
+zephyrosaurus,herbivorous,USA,,,5,k,1.8,schaffi,
+zuniceratops,herbivorous,,,ceratopsian,110,h,1.2,christopheri,
