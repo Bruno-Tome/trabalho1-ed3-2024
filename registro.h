@@ -2,6 +2,7 @@
 #define REGISTRO_H
 #include <stdio.h>
 #include <stdlib.h>
+#include "cabecalho.h"
 
 typedef struct {
     char removido;          // '0' não removido, '1' removido logicamente
@@ -34,6 +35,9 @@ Registro *lerRegistroCSV(FILE *fp);
 int buscarRegistro(Registro *r, const char *campo, const char *valor);
 
 void removeRegistro(Registro *r, int *topo, long int byteOffset);
+
+void inserirRegistro(FILE *fp, Registro *reg, Cabecalho *header);
+
 
 void compactarArquivoBinario(FILE *arquivoOriginal, FILE *arquivoCompactado);
 

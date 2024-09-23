@@ -363,6 +363,66 @@ void removeRegistro(Registro *r, int *topo, long int byteOffset) {
     r->encadeamento = *topo;  // Define o próximo encadeado como o topo anterior
     *topo = byteOffset;  // Atualiza o topo da lista de removidos
 }
+ 
+ void inserirRegistro(FILE *fp, Registro *reg, Cabecalho *header) {
+    if (fp == NULL || reg == NULL) return; // erro
+
+    int tamanhoUsado = 160; // Tamanho fixo do registro em bytes
+
+    if (header->topo != -1) { 
+        // Existe um espaço na lista de registros removidos
+        Registro *aux = (Registro *)malloc(sizeof(Registro));
+
+        // Posiciona o ponteiro no início do registro removido
+        long int currentRecordBO = header->topo;
+        long int previousRecordBO = header->topo;
+
+        // Lê o cabeçalho do registro removido
+        fseek(fp, currentRecordBO, SEEK_SET);
+        fread(&aux->removido, sizeof(char), 1, fp);
+        fread(&aux->encadeamento, sizeof(int), 1, fp);
+
+        if (tamanhoUsado <= 160) { // Verifica se cabe no espaço removido
+            fseek(fp, currentRecordBO, SEEK_SET); // Posiciona para sobrescrever
+
+            // Atualiza o cabeçalho da lista de removidos
+            header->topo = aux->encadeamento;
+
+            // Escreve o novo registro no espaço do removido
+            escreverRegistro(fp, reg);
+            free(aux);
+            return;
+        }
+
+        // Percorre a lista de registros removidos até encontrar um espaço
+        while (aux->encadeamento != -1) {
+            previousRecordBO = currentRecordBO;
+            currentRecordBO = aux->encadeamento;
+
+            fseek(fp, currentRecordBO, SEEK_SET);
+            fread(&aux->removido, sizeof(char), 1, fp);
+            fread(&aux->encadeamento, sizeof(int), 1, fp);
+
+            if (tamanhoUsado <= 160) {
+                fseek(fp, currentRecordBO, SEEK_SET);
+
+                // Atualiza o encadeamento do registro anterior para pular o atual
+                fseek(fp, previousRecordBO + sizeof(char) + sizeof(int), SEEK_SET);
+                fwrite(&aux->encadeamento, sizeof(int), 1, fp);
+
+                // Escreve o registro no espaço disponível
+                escreverRegistro(fp, reg);
+                free(aux);
+                return;
+            }
+        }
+    }
+
+    // Se não houver espaço na lista de removidos ou nenhum espaço foi suficiente
+    fseek(fp, 0, SEEK_END); // Posiciona o ponteiro no final do arquivo
+    escreverRegistro(fp, reg); // Escreve o novo registro no final
+}
+
 
 void compactarArquivoBinario(FILE *arquivoOriginal, FILE *arquivoCompactado) {
     Cabecalho header;

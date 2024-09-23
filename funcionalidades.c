@@ -249,7 +249,76 @@ void funcionalidade4() {
     fclose(sf);
     binarioNaTela(srcFileName);  // Exibe o arquivo compactado
 }
+void funcionalidade5() {
+    Cabecalho header = inicializarCabecalho();
+    char fileName[30];
+    scanf("%s", fileName);
 
+    FILE *df = fopen(fileName, "rb+");
+    if (df == NULL) {
+        printf("Falha no processamento do arquivo.");
+        return;
+    }
+
+    lerCabecalhoBin(df, &header);
+
+    int numInsertions;
+    scanf("%d", &numInsertions);
+
+    Registro *r;
+
+    for (int i = 0; i < numInsertions; i++) {
+        r = (Registro *)malloc(sizeof(Registro));
+        r->removido = '0'; // Define como não removido
+        r->encadeamento = -1; // Define o encadeamento como -1, pois o registro não está removido
+
+        // Leitura dos campos do registro
+        scanf("%d", &r->populacao); // Leitura da população da espécie
+
+        scanf("%f %c", &r->tamanho, &r->unidadeMedida); // Leitura do tamanho e da unidade de medida
+
+        scanf("%d", &r->velocidade); // Leitura da velocidade do indivíduo
+
+        r->nome = (char *)malloc(50 * sizeof(char));
+        scan_quote_string(r->nome); // Leitura do nome da espécie
+
+        r->especie = (char *)malloc(50 * sizeof(char));
+        scan_quote_string(r->especie); // Leitura do nome científico da espécie
+
+        r->habitat = (char *)malloc(50 * sizeof(char));
+        scan_quote_string(r->habitat); // Leitura do habitat da espécie
+
+        r->tipo = (char *)malloc(50 * sizeof(char));
+        scan_quote_string(r->tipo); // Leitura do tipo da espécie
+
+        r->dieta = (char *)malloc(50 * sizeof(char));
+        scan_quote_string(r->dieta); // Leitura da dieta da espécie
+
+        r->alimento = (char *)malloc(50 * sizeof(char));
+        scan_quote_string(r->alimento); // Leitura do alimento da espécie
+
+        // Inserção do registro no arquivo binário
+            inserirRegistro(df, r, &header);
+
+
+        // Libera a memória alocada para os campos de string
+        free(r->nome);
+        free(r->especie);
+        free(r->habitat);
+        free(r->tipo);
+        free(r->dieta);
+        free(r->alimento);
+        free(r);
+    }
+
+    // Atualiza o cabeçalho do arquivo
+    fseek(df, 0, SEEK_SET);
+    header.status = '1'; // Marca o arquivo como consistente
+    escreverCabecalhoBin(df, &header);
+
+    fclose(df);
+    binarioNaTela(fileName);
+}
 
 // Função principal da funcionalidade 6
 void funcionalidade6() {
